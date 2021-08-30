@@ -1,7 +1,7 @@
 # 8-Week-SQL-Challenge
 # Case Study #1 - Danny's Diner
 ![1 (3)](https://user-images.githubusercontent.com/78970792/131291096-a6a7cd37-60cc-44fc-bd5e-50ef55c0eca7.png)
-# Introduction
+## Introduction
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
 
 Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business.
@@ -33,3 +33,5 @@ The menu table maps the product_id to the actual product_name and price of each 
 # Table 3: members
 The final members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
 ![Screenshot (154)](https://user-images.githubusercontent.com/78970792/131292005-40fa1e00-fb49-4f2f-885e-d9ae30276ff5.png)
+
+
